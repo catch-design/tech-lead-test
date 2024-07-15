@@ -7,8 +7,21 @@ Create a project overview, scope, and initial setup for a website that caters to
 ## Core Requirements
 
 1. **Solution Proposal**
-   - Create a google doc
    - Write a few paragraphs explaining the architecture and technologies you would use to build the website.
    - Create an artitecture diagram of the solution
-   - Provide a client and project manager friendly overview of the project
+   - Provide a project manager friendly overview of the architecture
    - Break down the project into high level tasks and provide a rough estimate of the time required for each task.
+
+## Coding Task
+
+-
+
+## Submission Instructions
+
+- Provide clear instructions for setting up and running the project in the `README.md` file.
+- Submit your project by sending an email to [tech-tests@catchdesign.co.nz](mailto:tech-tests@catchdesign.co.nz) with:
+  - A link to your GitHub project and Coding Task
+  - Your solution proposal as one of
+    - Markdown files in the project
+    - A Google Docs link
+    - A PDF file
