@@ -32,7 +32,7 @@ Delierables
 ### 1. Solution
 
 1. Produce a high level arcitecture, this should include:
-   - A basic diagram of of the system compoenents
+   - A basic diagram of of the system components
    - Write a few paragraphs explaining the architecture and technologies you would use to build the solution
 2. Provide a simple explaination of solution for a less technical audience such as project managers and the client
 
@@ -51,5 +51,5 @@ Delierables
 ## Submission Instructions
 
 - All submission artifacts are to be supplied by providing Catch with access to a single github repository
-- **1. Solution** and **2. Delivery Estimate** are be supplied as markdown files in a folder named `docs` in the root of your repository
+- **1. Solution** and **2. Delivery Estimate** are be supplied as markdown files in a folder named `docs` in the root of your repository, you may ship other artifacts such as images if required.
 - Submit your project by sending an email to [tech-tests@catchdesign.co.nz](mailto:tech-tests@catchdesign.co.nz) containing a link to your GitHub project. If your repository is private, let us know and we will provide you with users to grant accesss to.
