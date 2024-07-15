@@ -14,9 +14,13 @@ Create a project overview, scope, and initial setup for a website that caters to
    - Break down the project into high level tasks and provide a rough estimate of the time required for each task.
 
 2. **Project Setup**
+
    - Create a new project using one of the technologies from your proposal.
-   - Create root docs folder containing your solution proposal as markdown files
    - Set up a basic project structure with any build tools, linters, and testing frameworks you would use.
+
+3. **Documentation**
+   - Provide a `README.md` file with instructions on how to set up and run the project.
+   - Create root docs folder containing your solution proposal as markdown files
 
 ## Submission Instructions
 
