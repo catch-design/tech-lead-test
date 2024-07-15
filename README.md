@@ -1,29 +1,55 @@
-# Technical Lead Test
+Technical Lead Test
+===================
 
-## Objective
+Objective
+---------
 
-Create a project overview, scope, and initial setup for a website that caters to businesses across 10 different countries. The site should be multilingual, capable of capturing leads and emailing lead data to regional email addresses. The site architecture should include a Content Management System to drive page content and any API integrations needed to handle emails, leads and storing data. The focus is on your ability to understand the requirements, propose a solution, set up a project, prepare documentation, and implement a feature.
+- Understand the project brief and produce the required deliverables.
+- Assessment will be based on your comprehension of the requirements and the quailty of the devlierables.
 
-## Core Requirements
+Project Brief
+-------------
 
-1. **Solution Proposal**
+- Over all project scope is a website and a mobile app
+- Phase 1 is a responsive website, Phase 2 is a mobile that is able to leverage the base technology stack
+- Audiences in 10 different countries
+- Multilingual support
+- Lead capture
+   - Lead data will be sent to different systems depending on the type of lead and the country of origin, this includes Email and 3rd Party APIs
+   - Leads need to be stored in case of delivery failure, storage needs to be in compliance with local data privacy laws
+- CMS
+- Live data feed from 3rd Party System
+- Web experience needs to meet basic standards:
+   - WCAG2.2AA Standards
+   - Google Lighthouse Accessibility/SEO/Performance Metrics
+- Web Experience needs to support structured schema data and social meta data
+- Mobile Experience needs to leverage device and OS accessibility features
+- System needs to collect log and diagnostic data and metrics and support a sensible alerting strategy
 
-   - Write a few paragraphs explaining the architecture and technologies you would use to build the website.
-   - Create an artitecture diagram of the solution
-   - Provide a project manager friendly overview of the architecture
-   - Break down the project into high level tasks and provide a rough estimate of the time required for each task.
+Delierables
+-----------
 
-2. **Project Setup**
+### 1. Solution
 
-   - Create a new project using one of the technologies from your proposal.
-   - Set up a basic project structure with any build tools, linters, and testing frameworks you would use.
+1. Produce a high level arcitecture, this should include:
+   - A basic diagram of of the system compoenents
+   - Write a few paragraphs explaining the architecture and technologies you would use to build the solution
+2. Provide a simple explaination of solution for a less technical audience such as project managers and the client
 
-3. **Documentation**
-   - Provide a `README.md` file with instructions on how to set up and run the project.
-   - Create root docs folder containing your solution proposal as markdown files
+### 2. Delivery Estimate / Timeline
+
+1. Produce a scope and high level estimate for development of Phase 1
+2. Produce a timeline for delivery
+3. State any assumptions
+
+### 3. Project Setup
+
+1. Create a new project using one of the technologies from your proposal.
+2. Set up a basic project structure with any build tools, linters, and testing frameworks you would use.
+3. Provide at minimum a `README.md` file with instructions on how to set up and run the project.
 
 ## Submission Instructions
 
-- Provide clear instructions for setting up and running the project in the `README.md` file.
-- Submit your project by sending an email to [tech-tests@catchdesign.co.nz](mailto:tech-tests@catchdesign.co.nz) with:
-  - A link to your GitHub project and that contains your solution proposal and project setup.
+- All submission artifacts are to be supplied by providing Catch with access to a single github repository
+- **1. Solution** and **2. Delivery Estimate** are be supplied as markdown files in a folder named `docs` in the root of your repository
+- Submit your project by sending an email to [tech-tests@catchdesign.co.nz](mailto:tech-tests@catchdesign.co.nz) containing a link to your GitHub project. If your repository is private, let us know and we will provide you with users to grant accesss to.
