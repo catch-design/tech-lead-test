@@ -6,6 +6,7 @@ Objective
 
 - Understand the project brief and produce the required deliverables.
 - Assessment will be based on your comprehension of the requirements and the quailty of the devlierables.
+- Spend up to 4 hours on it.
 
 Project Brief
 -------------
@@ -48,7 +49,18 @@ Delierables
 
 1. Create a new project using one of the technologies from your proposal.
 2. Set up a basic project structure with any build tools, linters, and testing frameworks you would use.
-3. Provide at minimum a `README.md` file with instructions on how to set up and run the project.
+3. Create one lead capture form and a form handler.
+   - Fields:
+      - first name
+      - last name
+      - email
+      - accept terms
+      - mobile number
+      - notes
+   - Handler:
+      - sanitise data
+      - save data somewhere appropriate
+4. Provide at minimum a `README.md` file with instructions on how to set up and run the project.
 
 ## Submission Instructions
 
