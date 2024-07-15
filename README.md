@@ -56,6 +56,7 @@ Delierables
       - email
       - accept terms
       - mobile number
+      - marketing attributes
       - notes
    - Handler:
       - sanitise data
