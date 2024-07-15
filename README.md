@@ -52,4 +52,17 @@ Delierables
 
 - All submission artifacts are to be supplied by providing Catch with access to a single github repository
 - **1. Solution** and **2. Delivery Estimate** are be supplied as markdown files in a folder named `docs` in the root of your repository, you may ship other artifacts such as images if required.
-- Submit your project by sending an email to [tech-tests@catchdesign.co.nz](mailto:tech-tests@catchdesign.co.nz) containing a link to your GitHub project. If your repository is private, let us know and we will provide you with users to grant accesss to.
+ An example directory structure is shown below:
+```
+Root
+  L README.md
+  L docs
+    L _assets
+      L hla.png
+      L gant.png
+    L 1-solution.md
+    L 2-deliery-estimate-and-timeline.md
+  L ...project_files
+```
+- Submit your project by sending an email to [tech-tests@catchdesign.co.nz](mailto:tech-tests@catchdesign.co.nz) containing a link to your GitHub project.
+  If your repository is private, let us know and we will provide you with users to grant accesss to.
