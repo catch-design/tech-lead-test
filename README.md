@@ -2,7 +2,7 @@
 
 ## Objective
 
-Create a project overview, scope, and initial setup for a website that caters to a local client with a global footprint. The site should be multilingual, capable of capturing leads, and sending emails to different regions. The focus is on your ability to understand the requirements, propose a solution, set up a project, prepare documentation, and implement a feature. The site should also include a Content Management System (CMS) to drive page content and some API integration to handle emails, leads and storing data.
+Create a project overview, scope, and initial setup for a website that caters to a local client with a global footprint. The site should be multilingual, capable of capturing leads and emailing lead data to regional email addresses. The site architecture should include a Content Management System to drive page content and any API integrations needed to handle emails, leads and storing data. The focus is on your ability to understand the requirements, propose a solution, set up a project, prepare documentation, and implement a feature.
 
 ## Core Requirements
 
