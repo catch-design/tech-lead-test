@@ -23,6 +23,7 @@ Project Brief
    - WCAG2.2AA Standards
    - Google Lighthouse Accessibility/SEO/Performance Metrics
 - Web Experience needs to support structured schema data and social meta data
+- Anti spam and security controls
 - Mobile Experience needs to leverage device and OS accessibility features
 - System needs to collect log and diagnostic data and metrics and support a sensible alerting strategy
 
@@ -35,6 +36,7 @@ Delierables
    - A basic diagram of of the system components
    - Write a few paragraphs explaining the architecture and technologies you would use to build the solution
 2. Provide a simple explaination of solution for a less technical audience such as project managers and the client
+3. Identify any risks or initial threat modeling related to the solution
 
 ### 2. Delivery Estimate / Timeline
 
