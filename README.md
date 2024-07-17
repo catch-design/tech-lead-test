@@ -5,7 +5,7 @@ Objective
 ---------
 
 - Understand the project brief and produce the required deliverables.
-- Assessment will be based on your comprehension of the requirements and the quailty of the devlierables.
+- Assessment will be based on your comprehension of the requirements and the quality of the deliverables.
 - Spend up to 4 hours on it.
 
 Project Brief
