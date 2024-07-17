@@ -28,7 +28,7 @@ Project Brief
 - Mobile Experience needs to leverage device and OS accessibility features
 - System needs to collect log and diagnostic data and metrics and support a sensible alerting strategy
 
-Delierables
+Deliverables
 -----------
 
 ### 1. Solution
