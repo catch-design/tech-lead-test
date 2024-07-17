@@ -33,16 +33,16 @@ Deliverables
 
 ### 1. Solution
 
-1. Produce a high level arcitecture, this should include:
+1. Produce a high level architecture, this should include:
    - A basic diagram of of the system components
    - Write a few paragraphs explaining the architecture and technologies you would use to build the solution
-2. Provide a simple explaination of solution for a less technical audience such as project managers and the client
-3. Identify any risks or initial threat modeling related to the solution
+2. Provide a simple explanation of solution for a less technical audience such as project managers and the client
+3. Identify any risks or initial threat modelling related to the solution
 
 ### 2. Delivery Estimate / Timeline
 
 1. Produce a scope and high level estimate for development of Phase 1
-2. Produce a timeline for delivery
+2. Produce a time-line for delivery
 3. State any assumptions
 
 ### 3. Project Setup
@@ -65,7 +65,7 @@ Deliverables
 
 ## Submission Instructions
 
-- All submission artifacts are to be supplied by providing Catch with access to a single github repository
+- All submission artefacts are to be supplied by providing Catch with access to a single github repository
 - **1. Solution** and **2. Delivery Estimate** are be supplied as markdown files in a folder named `docs` in the root of your repository, you may ship other artifacts such as images if required.
  An example directory structure is shown below:
 ```
