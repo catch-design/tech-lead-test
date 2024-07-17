@@ -71,11 +71,11 @@ Deliverables
 ```
 |-- README.md
 |-- docs
-    |-- _assets
-        |-- hla.png
-        |-- gant.png
-    |-- 1-solution.md
-    |-- 2-deliery-estimate-and-timeline.md
+|   |-- _assets
+|   |   |-- hla.png
+|   |   |-- gant.png
+|   |-- 1-solution.md
+|   |-- 2-deliery-estimate-and-timeline.md
 |-- ...project_files
 ```
 - Submit your project by sending an email to [tech-tests@catchdesign.co.nz](mailto:tech-tests@catchdesign.co.nz) containing a link to your GitHub project.
